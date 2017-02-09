@@ -17,7 +17,7 @@ En ting er dog normative begrundelser, en anden er den empiriske virkelighed. Fo
 
 I fagets første del præsenteres centrale økonomiske og socialpsykologiske modeller for hvordan mennesker forholder sig til spørgsmål om ansvar. Herefter vil vi fokusere på hvilke faktorer, der gør det lettere eller sværere for vælgerne at holde politikerne ansvarlige for den politik de fører, herunder hvilken rolle politiske instutitioner spiller, samt hvordan vælgernes psykologiske infrastruktur kan stille forhinddringer op for at politikerne bliver holdt til ansvar. I den sidste del af kurset ser vi på, om man kan få det repræsentative demokrati til at fungere bedre ved at 'hjælpe' vælgerne med at holde politikerne ansvarlige. Den empiriske litteratur der gennemgåes vil typisk fokusere på lokalvalg, idet det er muligt at studere dynamikkerne omkring politisk ansvar mere klart ved sådanne valg. Metodisk vil der være et særligt fokus på naturlige eksperimenter, da disse hyppigt anvendes til at studere politisk ansvar.
 
-Faget er velegnet til studerende der ønsker at forstår hvordan politiske institutioner og menneskets psykologi strukturere politisk ansvar i et demokrati. Det er særlig relevant for studerende, der ønsker at forfølge jobmuligheder i en politisk organisation (fx parti eller interesseorganisation), eller en privat organisation, der er interesserer sig i, hvordan deres kunder holder dem ansvarlige for kvaliteten af deres produkt (fx finansielle institutioner). Faget vil give de studerende et teoretisk begrebsapperat, der vil hjælpe dem med at gennemskue fordele og ulemper i at strukturere organisationer på bestemte måder, samt empiriske kompetencer til at evaluere i hvilket omfang organisationer er responsive over for deres interessenter.
+Faget er velegnet til studerende der ønsker at forstå, hvordan politiske institutioner og menneskets psykologi strukturerer politisk ansvar i et demokrati. Det er særlig relevant for studerende, der ønsker at forfølge jobmuligheder i en politisk organisation (fx parti eller interesseorganisation), eller en privat organisation, der er interesserer sig i, hvordan deres kunder holder dem ansvarlige for kvaliteten af deres produkt (fx finansielle institutioner). Faget vil give de studerende et teoretisk begrebsapperat, der vil hjælpe dem med at gennemskue fordele og ulemper ved at strukturere politiske organisationer på bestemte måder, samt empiriske kompetencer til at evaluere i hvilket omfang organisationer er responsive over for deres interessenter.
 
 #Undervisningsplan
 Faget er struktureret omkring følgende syv moduler:
@@ -91,8 +91,7 @@ Udbuddet vil være en kombination af oplæg fra underviser samt diskussioner af 
 Syv moduler af fire timer.
  
 ##Anbefalede faglige forudsætninger
-Bestået metode 2 og Almen Statskundskab på BA-uddannelsen. Derudover er det en fordel, hvis de studerende har yderligere metodeerfaringer fra et videregående kvantitativt metodefag. Faget er primært teoretisk og empirisk, men mange tekster på pensum anvender forskellige avancerede metoder, som er nødvendige at forstå.
- 
+Bestået metode 2 og Almen Statskundskab på BA-uddannelsen. Derudover er det en fordel, hvis de studerende har yderligere metodeerfaringer fra et videregående kvantitativt metodefag.
  
 ##Eksamensform
 24-timers skriftlig hjemmeopgave. Opgaven bliver stillet af underviseren og vil både involvere empiriske og teoretiske elementer.
