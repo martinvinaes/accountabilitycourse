@@ -15,7 +15,7 @@ I det omfang politiske ledere træffer beslutninger, der har negative konsekvens
 
 En ting er dog normative begrundelser, en anden er den empiriske virkelighed. Formår vælgerne i virkeligheden at holde politikerne ansvarlige for den politik de fører? I dette fag stille vi skarpt på dette spørgsmål, og undersøger det empiriske forhold mellem magt og ansvar i repræsentative demokratier.
 
-I fagets første del præsenteres centrale økonomiske og socialpsykologiske modeller for hvordan mennesker forholder sig til spørgsmål om ansvar. Herefter vil vi fokusere på hvilke faktorer, der gør det lettere eller sværere for vælgerne at holde politikerne ansvarlige for den politik de fører, herunder hvilken rolle politiske instutitioner spiller, samt hvordan vælgernes psykologiske infrastruktur kan stille forhinddringer op for at politikerne bliver holdt til ansvar. I den sidste del af kurset ser vi på, om man kan få det repræsentative demokrati til at fungere bedre ved at 'hjælpe' vælgerne med at holde politikerne ansvarlige.
+I fagets første del præsenteres centrale økonomiske og socialpsykologiske modeller for hvordan mennesker forholder sig til spørgsmål om ansvar. Herefter vil vi fokusere på hvilke faktorer, der gør det lettere eller sværere for vælgerne at holde politikerne ansvarlige for den politik de fører, herunder hvilken rolle politiske instutitioner spiller, samt hvordan vælgernes psykologiske infrastruktur kan stille forhinddringer op for at politikerne bliver holdt til ansvar. I den sidste del af kurset ser vi på, om man kan få det repræsentative demokrati til at fungere bedre ved at 'hjælpe' vælgerne med at holde politikerne ansvarlige. Den empiriske litteratur der gennemgåes vil typisk fokusere på lokalvalg, idet det er muligt at studere dynamikkerne omkring politisk ansvar mere klart ved sådanne valg. Metodisk vil der være et særligt fokus på naturlige eksperimenter, da disse hyppigt anvendes i denne literatur.
 
 Faget er velegnet til studerende der ønsker at forstår hvordan politiske institutioner og menneskets psykologi strukturere politisk ansvar i et demokrati. Det er særlig relevant for studerende, der ønsker at forfølge jobmuligheder i en politisk organisation (fx parti eller interesseorganisation), eller en privat organisation, der er interesserer sig i, hvordan deres kunder holder dem ansvarlige for kvaliteten af deres produkt (fx finansielle institutioner). Faget vil give de studerende et teoretisk begrebsapperat, der vil hjælpe dem med at gennemskue fordele og ulemper i at strukturere organisationer på bestemte måder, samt empiriske kompetencer til at evaluere i hvilket omfang organisationer er responsive over for deres interessenter.
 
@@ -58,7 +58,7 @@ Faget er struktureret omkring følgende syv moduler:
    <li>De-biasing og adfærdskampagner</li>
   <li>Har politisk ansvar en `mørk' side?</li>
 </ol>
-7. Afrunding of minikonference
+7. Afrunding
 
 ##Målbeskrivelse
 Fagets målsætning er at sætte de studerende i stand til at kunne:
@@ -85,8 +85,7 @@ Pensum udgør 1000 sider og vil primært bestå af videnskabelige artikler fra d
 * Ruder, Alex I et al. 2014. “Institutional Design and the Attribution of Presidential Control: Insulating the President from Blame.” Quarterly Journal of Political Science 9(3):301–335.
  
 ##Undervisningsform
-Udbuddet vil være en kombination af oplæg fra underviser samt diskussioner af tekster, cases og øvelser. Der vil være fem små miniøvelser, der skal løses fra uge til uge.  Den sidste undervisningsgang er der afsat tid til minikonference, hvor de studerende har mulighed for kort at præsentere ideer til forskningsdesign for eksamensopgaven og få feedback fra underviser og medstuderende.
- 
+Udbuddet vil være en kombination af oplæg fra underviser samt diskussioner af tekster, cases og øvelser. Der vil være fem små miniøvelser, der skal løses fra uge til uge. Det vil være nødvendigt at lave miniøvelserne, hvis man vil lave en effektiv eksamensbesvarelse.
  
 ##Undervisningens struktur
 Syv moduler af fire timer.
