@@ -22,16 +22,44 @@ Dette fag stiller skaprt på om vælgerne formår at holde politikerne ansvarlig
 For at svare på spørgsmålet vil faget gennemgå den nyeste teoretiske og empiriske literatur, der forsøger at evaluere forholdet mellem vælgere og politikere. Konkret vil faget særligt fokusere på lokalvalg, idet det typisk er lettere at studere forholdet mellem politikere og borgere på dette niveau, og fordi det er lettere at forestille sig at man kan gøre det bedre.
 
 
-Svaret på dette spørgsmål er of . Dette fag stiller skarpt
- 
 Udbuddet vil blive struktureret omkring de følgende syv moduler: 
 
 1. Introduktion: Teoretiske og metodiske tilgange samt datakilder
+<ol type="a">
+  <li>Teoretiske skoler.</li>
+  <li>Metodiske tilgange. </li>
+  <li>Danske datakilder.</li>
+</ol>
 2. Teoretiske og normative perspektiver
+<ol type="a">
+  <li>Demokratiteori</li>
+  <li>Sankstions og selektionsmodeller </li>
+  <li>Den psykologiske kritik</li>
+</ol>
 3. Institutionelle grænser for politisk ansvar
+<ol type="a">
+  <li>Centralisering af magt</li>
+  <li>Mediernes rolle</li>
+  <li>Ulighed i politisk ansvar</li>
+</ol>
 4. Behaviorale grænser for politisk ansvar
+<ol type="a">
+  <li>Fejlopfattelser</li>
+  <li>Misattribution</li>
+  <li>Irrelevante begivenheder</li>
+</ol>
 5. Relaterede emner: Responsivitet og politikerne
+<ol type="a">
+  <li>Lovgovning for folket?</li>
+   <li>Repræsentation</li>
+  <li>De valgte politikere og den førte politik.</li>
+</ol>
 6. Kan vi gøre politikerne mere ansvarlige? Bør vi gøre dem mere ansvarlige?
+<ol type="a">
+  <li>Er nogle institutioner bedre end andre?</li>
+   <li>De-biasing og adfærdskampagner</li>
+  <li>Har politisk ansvar en `mørk' side?</li>
+</ol>
 7. Afrunding of minikonference
 
 ##Målbeskrivelse
