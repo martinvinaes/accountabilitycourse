@@ -98,4 +98,4 @@ Bestået metode 2 og Almen Statskundskab på BA-uddannelsen. Derudover er det en
  
  
 ##Eksamensform
-Fri opgave. Bemærk at opgaven skal reflektere målbeskrivelsen.
+24-timers skriftlig hjemmeopgave. Opgaven bliver stillet af underviseren og vil både involvere empiriske og teoretiske elementer.
