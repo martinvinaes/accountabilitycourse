@@ -1,4 +1,4 @@
-#Udbud: Kan vælgerne holde poltikerne ansvarlige?
+#Udbud: Kan vælgerne holde politikerne ansvarlige?
  
 ##Engelsk titel
 Course: Electoral accountability
@@ -11,20 +11,18 @@ Bachelorniveau 10 ECTS
 Kandidatniveau 7,5 ECTS
  
 ##Kursusindhold
+I det omfang politiske ledere træffer beslutninger, der har negative konsekvenser for deres vælgere, så sørger vælgerne for at de politiske ledere bliver udskiftet. Det er en af de underliggende normative begrundelser for det repræsentativt demokrati. Hvis poltikernes handlinger ikke har konsekvenser for om de bliver genvalgt, så vil politikerne nemligt have mulighed for at handle imod befolkningens interesse. Det er ikke specielt demokratisk (eller specielt repræsentativt).
 
-En central antagelse i repræsentativt demokratisk teori er, at når politikerne handler, så kan vælgerne vurdere om de handlinger er gode eller dårlige, og derfor også finde ud af om de skal holde fast i de nuværende politikere eller prøve at stemme dem ud til næste valg. Når en borgmester sætter skatten op, en præsident lukker folk fra muslimske lande ude eller en statsminister indfører  
+En ting er imidlertid normative begrundelser, en anden er den empiriske virkelighed. Formår vælgerne i virkeligheden at holde politikerne ansvarlige? I dette fag stille vi skarpt på dette spørgsmål, og undersøger det empiriske forhold mellem magt og ansvar i avancerede repræsentative demokratier.
 
+I fagets første del præsenteres kanoniske økonomiske og socialpsykologiske modeller for hvordan mennesker forholder sig til spørgsmål om ansvar. Herefter vil vi fokusere på hvilke faktorer der gør det lettere eller sværere for vælgerne at holde politikerne ansvarlige for den politik de fører, herunder hvilken rolle politiske instutitioner spiller samt hvordan vælgernes psykologiske infrastruktur kan stille forhinddringer. I den sidste del af kurset ser vi på, i hvilket omfang man kan få det repræsentative demokrati til at fungere bedre ved at  'hjælpe' vælgerne med at holde politikerne ansvarlige.
 
-Dette fag stiller skaprt på om vælgerne formår at holde politikerne ansvarlige for konsekvenserne af den politik de fører. 
+Faget er velegnet til studerende der ønsker at forstår hvordan politiske institutioner strukturere og spiller sammen med menneskets psykologi. 
 
+#Undervisningsplan
+Faget er struktureret omkring følgende syv moduler:
 
-
-For at svare på spørgsmålet vil faget gennemgå den nyeste teoretiske og empiriske literatur, der forsøger at evaluere forholdet mellem vælgere og politikere. Konkret vil faget særligt fokusere på lokalvalg, idet det typisk er lettere at studere forholdet mellem politikere og borgere på dette niveau, og fordi det er lettere at forestille sig at man kan gøre det bedre.
-
-
-Udbuddet vil blive struktureret omkring de følgende syv moduler: 
-
-1. Introduktion: Teoretiske og metodiske tilgange samt datakilder
+1. Introduktion
 <ol type="a">
   <li>Teoretiske skoler.</li>
   <li>Metodiske tilgange. </li>
