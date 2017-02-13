@@ -1,7 +1,7 @@
-#Udbud: Kan vælgerne holde politikerne ansvarlige?
+#Seminar: Kan vælgerne holde politikerne ansvarlige?
  
 ##Engelsk titel
-Course: Electoral accountability
+Seminar: Electoral accountability
  
 ##Uddannelse
 Valgfag i  “Specialisering i politisk adfærd og anvendt videregående kvantitativ metode”.
@@ -11,11 +11,13 @@ Bachelorniveau 10 ECTS
 Kandidatniveau 7,5 ECTS
  
 ##Kursusindhold
-Når politikere tager beslutninger, der er dårlige for deres vælgere, så straffer vælgerne politikerne ved ikke at genvælge dem. Dette er den grundlæggende normative begrundelse for det repræsentative demokrati. En ting er imidlertid normative begrundelser, en anden er den empiriske virkelighed. Så formår vælgerne i virkeligheden at holde politikerne ansvarlige for den politik de fører? I dette fag stille vi skarpt på dette spørgsmål, og undersøger det empiriske forhold mellem magt og ansvar i repræsentative demokratier.
+Når politikere træffer beslutninger, der er dårlige for deres vælgere, så straffer vælgerne politikerne ved ikke at genvælge dem. Dette er (d)en grundlæggende normative begrundelse for det repræsentative demokrati. En ting er imidlertid normative begrundelser, en anden er den empiriske virkelighed. Formår vælgerne i virkeligheden at holde politikerne ansvarlige for den politik de fører? I dette fag stiller vi skarpt på dette spørgsmål, og undersøger det empiriske forhold mellem magt og ansvar i repræsentative demokratier.
 
-I fagets første del præsenteres centrale økonomiske og socialpsykologiske modeller for hvordan mennesker forholder sig til spørgsmål om ansvar. Herefter vil vi fokusere på hvilke faktorer, der gør det lettere eller sværere for vælgerne at holde politikerne ansvarlige for den politik de fører, herunder hvilken rolle politiske instutitioner spiller, samt hvordan vælgernes psykologiske infrastruktur kan stille forhindringer op for at politikerne bliver holdt til ansvar. I den sidste del af kurset ser vi på, om man kan få det repræsentative demokrati til at fungere bedre ved at 'hjælpe' vælgerne med at holde politikerne ansvarlige. Den empiriske litteratur der gennemgåes vil typisk fokusere på lokalvalg, idet det er muligt at studere dynamikkerne omkring politisk ansvar mere klart ved sådanne valg. Metodisk vil der være et særligt fokus på naturlige eksperimenter, da disse hyppigt anvendes til at studere politisk ansvar.
+I fagets første del præsenteres centrale økonomiske og socialpsykologiske modeller for hvordan mennesket forholder sig til spørgsmål om ansvar. Herefter vil vi fokusere på hvilke faktorer, der gør det lettere eller sværere for vælgerne at holde politikerne ansvarlige for den politik de fører, herunder hvilken rolle politiske instutitioner spiller, samt hvordan vælgernes psykologiske infrastruktur kan stille forhindringer op for at politikerne holdes til ansvar. I den sidste del af kurset ser vi på, om man kan få det repræsentative demokrati til at fungere bedre ved at 'hjælpe' vælgerne med at holde politikerne ansvarlige. Den empiriske litteratur der gennemgåes vil typisk fokusere på lokalvalg, idet det er muligt at studere dynamikkerne omkring politisk ansvar mere klart ved lokalvalg. Metodisk vil der være et særligt fokus på naturlige eksperimenter, da de ofte bruges til at studere politisk ansvar.
 
-Faget er velegnet til studerende der ønsker at forstå, hvordan politiske institutioner og menneskets psykologi strukturerer politisk ansvar i et demokrati. Det er særlig relevant for studerende, der ønsker at forfølge jobmuligheder i en politisk organisation (fx parti eller interesseorganisation), eller en privat organisation, der er interesserer sig i, hvordan deres kunder holder dem ansvarlige for kvaliteten af deres produkt (fx finansielle institutioner). Faget vil give de studerende et teoretisk begrebsapperat, der vil hjælpe dem med at gennemskue fordele og ulemper ved at strukturere politiske organisationer på bestemte måder, samt empiriske kompetencer til at evaluere i hvilket omfang organisationer er responsive over for deres interessenter.
+Mere konkret vil vi i løbet af faget forsøge at svare på spørgsmål som: Spiller skolekarakterer en rolle for opbakningen til lokalpolitikere? Kan medierne hjælpe vælgerne med at holde politikerne ansvarlige? Hvilken indflydelse har globaliseringen for, hvordan vælgerne holder politikerne ansvarlige? I hvilket omfang kan skovbrænde og tornadoer have indflydelse på opakningen til den siddende regering? Og hvis de har, betyder det så, at vælgerne er irrationelle?
+
+Faget er velegnet til studerende, der ønsker at forstå, hvordan politiske institutioner og menneskets psykologi strukturerer politisk ansvar i et demokrati. Det er særlig relevant for studerende, der ønsker at forfølge jobmuligheder i en politisk organisation (fx parti eller interesseorganisation), eller en privat organisation, der er interesserer sig i, hvordan deres kunder holder dem ansvarlige for kvaliteten af deres produkt (fx finansielle institutioner). Faget vil give de studerende et teoretisk begrebsapperat, der vil hjælpe dem med at gennemskue fordele og ulemper ved at strukturere politiske organisationer på bestemte måder, samt empiriske kompetencer til at evaluere i hvilket omfang organisationer er responsive over for deres interessenter.
 
 #Undervisningsplan
 Faget er struktureret omkring følgende syv moduler:
@@ -60,9 +62,9 @@ Faget er struktureret omkring følgende syv moduler:
 
 ##Målbeskrivelse
 Fagets målsætning er at sætte de studerende i stand til at kunne:
-* Redegøre for centrale begreber og teori indenfor den empiriske litteratur om vælgernes kompetence samt forholdet mellem politisk magt og politisk ansvar i repræsentative demokratier.
+* Redegøre for centrale begreber og teori indenfor den empiriske litteratur om forholdet mellem politisk magt og politisk ansvar i repræsentative demokratier.
 * Diskutere og vurdere fordele og ulemper ved de forskellige teorier, tilgange og metoder, som de kommer til udtryk i pensum.
-* Aktivt anvende de forskellige teorier, tilgange og metoder til at analysere et empirisk problem, der belyser i hvilket omfang eller hvordan vælgerne holder politikerne ansvarlige.
+* Aktivt anvende de forskellige teorier, tilgange og metoder til at analysere et selvstændigt empirisk problem, der belyser i hvilket omfang eller hvordan vælgerne holder politikerne ansvarlige.
 * Selvstændigt perspektivere de præsenterede teorier til aktualle spørgsmål om vælgernes evner og det repræsentative demokratis normative status.
 
 
@@ -83,7 +85,7 @@ Pensum udgør 1000 sider og vil primært bestå af videnskabelige artikler fra d
 * Ruder, Alex I et al. 2014. “Institutional Design and the Attribution of Presidential Control: Insulating the President from Blame.” Quarterly Journal of Political Science 9(3):301–335.
  
 ##Undervisningsform
-Udbuddet vil være en kombination af oplæg fra underviser samt diskussioner af tekster, cases og øvelser. Der vil være fem små miniøvelser, der skal løses fra uge til uge. Det vil være nødvendigt at lave miniøvelserne, hvis man vil lave en effektiv eksamensbesvarelse.
+Udbuddet vil være en kombination af oplæg fra underviser samt diskussioner af tekster, cases og øvelser. Der vil være fem små miniøvelser, der skal løses fra uge til uge.
  
 ##Undervisningens struktur
 Syv moduler af fire timer.
@@ -92,4 +94,6 @@ Syv moduler af fire timer.
 Bestået metode 2 og Almen Statskundskab på BA-uddannelsen. Derudover er det en fordel, hvis de studerende har yderligere metodeerfaringer fra et videregående kvantitativt metodefag.
  
 ##Eksamensform
-24-timers skriftlig hjemmeopgave. Opgaven bliver stillet af underviseren og vil både involvere empiriske og teoretiske elementer.
+Porteføljeeksamen.
+
+Individuelle seminaropgaver gennem hele semesteret
