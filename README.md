@@ -24,9 +24,9 @@ Faget er struktureret omkring følgende syv moduler:
 
 1. Introduktion
 <ol type="a">
-  <li>Teoretiske skoler.</li>
-  <li>Metodiske tilgange. </li>
-  <li>Danske datakilder.</li>
+  <li>Teoretiske skoler</li>
+  <li>Metodiske tilgange </li>
+  <li>Danske datakilder</li>
 </ol>
 2. Teoretiske og normative perspektiver
 <ol type="a">
@@ -36,7 +36,7 @@ Faget er struktureret omkring følgende syv moduler:
 </ol>
 3. Institutionelle grænser for politisk ansvar
 <ol type="a">
-  <li>Centralisering af magt</li>
+  <li>(De)centralisering af magt</li>
   <li>Mediernes rolle</li>
   <li>Ulighed i politisk ansvar</li>
 </ol>
@@ -59,6 +59,9 @@ Faget er struktureret omkring følgende syv moduler:
   <li>Har politisk ansvar en `mørk' side?</li>
 </ol>
 7. Afrunding
+<ol type="a">
+  <li>Minikonference</li>
+</ol>
 
 ##Målbeskrivelse
 Fagets målsætning er at sætte de studerende i stand til at kunne:
@@ -76,7 +79,7 @@ Pensum udgør 1000 sider og vil primært bestå af videnskabelige artikler fra d
 * Arceneaux, Kevin. 2006. “The federal face of voting: Are elected officials held accountable for the functions relevant to their office?” Political Psychology 27(5):731–754. 
 * Ashworth, Scott. 2012. “Electoral accountability: recent theoretical and empirical work.” Annual Review of Political Science 15:183–201.
 * Berry, Christopher R and William G Howell. 2007. “Accountability and local elections: Rethinking retrospective voting.” Journal of Politics 69(3):844–858.
-* Besley, Timothy, Torsten Persson and DanielMSturm. 2010. “Political competition, policy and growth: theory and evidence from the US.” The Review of Economic Studies 77(4):1329–1352.
+* Besley, Timothy, Torsten Persson and Daniel M. Sturm. 2010. “Political competition, policy and growth: theory and evidence from the US.” The Review of Economic Studies 77(4):1329–1352.
 * Bisgaard, Martin. 2015. “Bias Will Find a Way: Economic Perceptions, Attributions of Blame, and Partisan-Motivated Reasoning during Crisis.” The Journal of Politics 77(3):849–860.
 * Carlin, Ryan E. and Shane P. Singh. 2015. “Executive Power and Economic Accountability.” The Journal of Politics 77(4):1031–1044.     
 * Healy, Andrew J, Neil Malhotra and Cecilia Hyunjung Mo. 2010. “Irrelevant events affect voters’ evaluations of government performance.” Proceedings of the National Academy of Sciences 107(29):12804–12809.
