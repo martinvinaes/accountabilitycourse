@@ -88,7 +88,8 @@ Pensum udgør 1000 sider og vil primært bestå af videnskabelige artikler fra d
 * Ruder, Alex I et al. 2014. “Institutional Design and the Attribution of Presidential Control: Insulating the President from Blame.” Quarterly Journal of Political Science 9(3):301–335.
  
 ##Undervisningsform
-Udbuddet vil være en kombination af oplæg fra underviser samt diskussioner af tekster, cases og øvelser. Der vil være fem små miniøvelser, der skal løses fra uge til uge.
+
+Seminaret vil være en kombination af oplæg fra underviser samt diskussioner af tekster, cases og øvelser. Der vil være fem små miniøvelser, der skal løses fra uge til uge.
  
 ##Undervisningens struktur
 Syv moduler af fire timer.
